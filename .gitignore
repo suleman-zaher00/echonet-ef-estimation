@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Data and model files (too large and/or license-restricted)
+data/
+weights/
+*.pth
+*.pt
+*.zip
+*.avi
+
+# Generated results (curated figures go in assets/)
+outputs/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+outputs_val/

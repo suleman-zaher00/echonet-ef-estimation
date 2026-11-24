@@ -1,0 +1,21 @@
+{
+  "n_videos": 1288,
+  "mae": 4.305638465081683,
+  "rmse": 5.948186043753193,
+  "r2": 0.7663305510092621,
+  "pearson_r": 0.8762154788259803,
+  "bland_altman": {
+    "mean_difference": 0.4362331243775646,
+    "lower_limit": -11.195332506050839,
+    "upper_limit": 12.067798754805967
+  },
+  "reduced_ef_detection": {
+    "threshold": 40.0,
+    "n_positive": 156,
+    "n_negative": 1132,
+    "sensitivity": 0.7371794871794872,
+    "specificity": 0.9752650176678446,
+    "auc": 0.9713916825224246
+  },
+  "split": "VAL"
+}
